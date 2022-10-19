@@ -1,5 +1,5 @@
 ---
-title: "Github Website"
+title: "Benjamin Ramsey's Blog"
 listing:
   contents: posts
   sort: "date desc"
