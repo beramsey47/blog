@@ -12,4 +12,29 @@ about:
       href: https://github.com/beramsey47
 ---
 
-I am Ben
+**EDUCATION**
+
+2021-2021 **University of Massachusetts, Amherst**
+
+-   Certificate in Digital Analytics and Computational Social Science
+
+    -   Relevant Coursework: Data Science Fundamentals, Research Design for Social Scientists, Introduction to Quantitative Analysis
+
+2013-2017 **Vassar College, Poughkeepsie, NY**
+
+-   Bachelor of Arts in Psychology, GPA: 3.32/4.00
+
+    -   Relevant Coursework: Research Methods in Social Psychology, Statistics and Experimental Design
+
+-   Study Abroad: Hampden-Sydney College, Muenster Summer Program, Contemporary German Media and Postwar Germany (June '16)
+
+\
+
+**SKILLS**
+
+**Computer skills:** Microsoft Office, Windows, R (programming language), RStudio, Python (programming language), REAPER
+
+**Language skills:** Proficient in German
+
+\
+
