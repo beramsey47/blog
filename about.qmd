@@ -12,6 +12,8 @@ about:
       href: https://github.com/beramsey47
 ---
 
+I am a Data Analytics and Computational Social Science MS student at UMass Amherst focusing on science, technology and society. I am interested in using survey research and machine learning techniques to learn about the social world that we inhabit. I earned my BA in Psychology at Vassar College.
+
 **EDUCATION**
 
 2021-2021 **University of Massachusetts, Amherst**
@@ -37,4 +39,3 @@ about:
 **Language skills:** Proficient in German
 
 \
-
