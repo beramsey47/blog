@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Posts",
     "section": "",
-    "text": "No matching items"
+    "text": "Post description\n\n\n\n\n\n\nFeb 20, 2023\n\n\nBen Ramsey\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -30,7 +30,7 @@
   {
     "objectID": "posts/welcome/welcome.html",
     "href": "posts/welcome/welcome.html",
-    "title": "Benjamin Ramsey's Blog",
+    "title": "My Post",
     "section": "",
     "text": "Hello"
   }

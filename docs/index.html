@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -177,21 +177,29 @@ Posts
 <a href="./posts/welcome/index.html"> </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-file-modified-sort="1676908729055" data-listing-reading-time-sort="0.005">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1676869200000" data-listing-file-modified-sort="1676909907102" data-listing-reading-time-sort="0.005">
 <div class="body">
 <a href="./posts/welcome/welcome.html">
 <h3 class="no-anchor listing-title">
+My Post
 </h3>
 <div class="listing-subtitle">
 
 </div>
 <div class="listing-description">
-Hello
+<p>Post description</p>
 </div>
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/welcome/welcome.html"> </a>
+<a href="./posts/welcome/welcome.html">
+<div class="listing-date">
+Feb 20, 2023
+</div>
+<div class="listing-author">
+Ben Ramsey
+</div>
+</a>
 </div>
 </div>
 </div>
